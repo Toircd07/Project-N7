@@ -1,0 +1,32 @@
+SP0001;Coca 1.5lit;20;90
+SP0002;Pepsi 700ml;15;100
+SP0003;Fanta 700ml;15;98
+SP0004;Sting 700ml;15;34
+SP0005;Bo huc 300ml;15;60
+SP0008;Monster 600ml;20;30
+SP0009;Sting 200ml;10;50
+SP0010;7Up 350ml;20;50
+SP0011;Aquafina 450ml;20;50
+SP0012;Sprite 150ml;15;50
+SP0013;Mountain Dew 275ml;20;50
+SP0014;Fanta 320ml;20;50
+SP0015;Olong Tea 290ml;15;50
+SP0016;Mirinda 240ml;15;50
+SP0017;Dr Pepper 400ml;20;50
+SP0018;Revive 370ml;15;50
+SP0019;Samurai 220ml;15;50
+SP0020;Number1 330ml;15;50
+SP0020;Bot giat;70;10
+SP0021;Nuoc xa vai;20;10
+SP0022;Nuoc rua chen;20;10
+SP0023;Sua tam;20;20
+SP0024;Xa phong;20;20
+SP0025;Clear;20;20
+SP0026;Dau xa;50;20
+SP0027;Kem danh rang;20;30
+SP0028;Kem danh rang bac ha;20;30
+SP0029;Lux-Sua tam;20;30
+SP0030;Dau goi;20;30
+SP0031;Lan khử mui;20;30
+SP0032;Kem danh rang nhay cam;20;30
+SP0033;Kem duong am;25;30

@@ -1,0 +1,30 @@
+NCC001;COCA COLA;SP0001;Coca 1.5lit;200;15
+NCC002;Pepsi;SP0002;Pepsi 700ml;200;8
+NCC003;Fanta;SP0003;Fanta 700ml;100;8
+NCC005;Sting;SP0004;Sting 700ml;80;8
+NCC006;RedBull;SP0005;Bo huc 300ml;80;10
+NCC008;Monster;SP0008;Monster 600ml;120;12
+NCC009;Sting;SP0009;Sting 200ml;70;7
+NCC010;7Up;SP0010;7Up 350ml;90;9
+NCC011;Aquafina;SP0011;Aquafina 450ml;110;11
+NCC012;Sprite;SP0012;Sprite 150ml;60;6
+NCC013;MountainDew;SP0013;Mountain Dew 275ml;85;8
+NCC014;Fanta;SP0014;Fanta 320ml;95;9
+NCC015;Olong Tea;SP0015;Olong Tea 290ml;105;10
+NCC016;Mirinda;SP0016;Mirinda 240ml;75;7
+NCC017;DrPepper;SP0017;Dr Pepper 400ml;115;11
+NCC018;Revive;SP0018;Revive 370ml;105;12
+NCC019;Samurai;SP0019;Samurai 220ml;65;6
+NCC021;Omo;SP0020;Bot giat;20;50
+NCC022;Comfort;SP0021;Nuoc xa vai;35;60
+NCC023;Sunlight;SP0022;Nuoc rua chen;25;40
+NCC024;Dove;SP0023;Sua tam;45;30
+NCC025;Lifebuoy;SP0024;Xa phong;55;25
+NCC026;Clear;SP0025;Dau goi;50;45
+NCC027;Pantene;SP0026;Dau xa;65;70
+NCC028;Colgate;SP0027;Kem danh rang;40;20
+NCC029;CloseUp;SP0028;Kem danh rang bac ha;30;35
+NCC030;Lux;SP0029;Sua tam;75;55
+NCC031;Head&Shoulders;SP0030;Dau goi;90;85
+NCC032;Rexona;SP0031;Lan khử mui;15;10
+NCC033;Sensodyne;SP0032;Kem danh rang nhay cam;50;65

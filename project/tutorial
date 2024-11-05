@@ -1,0 +1,5 @@
+Download thư mục Disscussion về máy
+mở terminal trong   Vscode 
+nhập lệnh cd chuyển đến thư mục Disscussion
+nhập lệnh: g++ -Iinclude main.cpp funcion\*.cpp -o main   _sau đó enter
+nhập tiếp lệnh ./main sau đó enter
